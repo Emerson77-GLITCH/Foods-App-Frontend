@@ -7,3 +7,6 @@ Technologies
 -Ansible
 -Railway Server
 -Redux ToolKit
+
+
+Food App Frontend
